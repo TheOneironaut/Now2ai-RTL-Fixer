@@ -14,6 +14,8 @@
 - Google Gemini
 - Google NotebookLM
 - Perplexity.ai
+- Genspark
+- Grok
 
 ## Features
 

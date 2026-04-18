@@ -12,7 +12,10 @@
     "*://*.chatgpt.com/*",
     "*://notebooklm.google.com/*",
     "*://gemini.google.com/*",
-    "*://*.perplexity.ai/*"
+    "*://*.perplexity.ai/*",
+    "*://*.genspark.ai/*",
+    "*://*.grok.com/*",
+    "*://*.x.ai/*"
   ],
   "action": {
     "default_icon": {
@@ -41,7 +44,10 @@
         "*://*.chatgpt.com/*",
         "*://notebooklm.google.com/*",
         "*://gemini.google.com/*",
-        "*://*.perplexity.ai/*"
+        "*://*.perplexity.ai/*",
+        "*://*.genspark.ai/*",
+        "*://*.grok.com/*",
+        "*://*.x.ai/*"
       ],
       "js": [
         "content-script.js"
