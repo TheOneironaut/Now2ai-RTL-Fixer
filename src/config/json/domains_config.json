@@ -424,5 +424,163 @@
                 }
             ]
         }
+    },
+    {
+        "domain": "^(?:[^.]+\\.)?genspark\\.ai$",
+        "position": {
+            "top": "16px",
+            "right": "96px",
+            "padding": "8px 12px"
+        },
+        "selectors": {
+            "attributes": [
+                {
+                    "selector": "contenteditable",
+                    "classes": [
+                        "rtl-auto"
+                    ]
+                },
+                {
+                    "selector": "data-testid",
+                    "classes": [
+                        "rtl-auto"
+                    ]
+                }
+            ],
+            "tags": [
+                {
+                    "selector": "textarea",
+                    "classes": [
+                        "rtl-auto"
+                    ]
+                },
+                {
+                    "selector": "input",
+                    "classes": [
+                        "rtl-auto"
+                    ]
+                },
+                {
+                    "selector": "article",
+                    "classes": [
+                        "rtl-auto"
+                    ]
+                }
+            ],
+            "classes": [
+                {
+                    "selector": "ProseMirror",
+                    "classes": [
+                        "rtl-auto"
+                    ]
+                },
+                {
+                    "selector": "message",
+                    "classes": [
+                        "rtl-auto"
+                    ]
+                },
+                {
+                    "selector": "message-content",
+                    "classes": [
+                        "rtl-auto"
+                    ]
+                },
+                {
+                    "selector": "chat-message",
+                    "classes": [
+                        "rtl-auto"
+                    ]
+                },
+                {
+                    "selector": "markdown",
+                    "classes": [
+                        "rtl-auto"
+                    ]
+                },
+                {
+                    "selector": "whitespace-pre-wrap",
+                    "classes": [
+                        "rtl-auto"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "domain": "^(?:[^.]+\\.)?grok\\.com$|^(?:[^.]+\\.)?x\\.ai$",
+        "position": {
+            "top": "16px",
+            "right": "120px",
+            "padding": "8px 12px"
+        },
+        "selectors": {
+            "attributes": [
+                {
+                    "selector": "contenteditable",
+                    "classes": [
+                        "rtl-auto"
+                    ]
+                },
+                {
+                    "selector": "data-testid",
+                    "classes": [
+                        "rtl-auto"
+                    ]
+                },
+                {
+                    "selector": "role",
+                    "classes": [
+                        "rtl-auto"
+                    ]
+                }
+            ],
+            "tags": [
+                {
+                    "selector": "textarea",
+                    "classes": [
+                        "rtl-auto"
+                    ]
+                },
+                {
+                    "selector": "article",
+                    "classes": [
+                        "rtl-auto"
+                    ]
+                },
+                {
+                    "selector": "p",
+                    "classes": [
+                        "rtl-auto"
+                    ]
+                }
+            ],
+            "classes": [
+                {
+                    "selector": "prose",
+                    "classes": [
+                        "rtl-auto"
+                    ]
+                },
+                {
+                    "selector": "message-content",
+                    "classes": [
+                        "rtl-auto"
+                    ]
+                },
+                {
+                    "selector": "whitespace-pre-wrap",
+                    "classes": [
+                        "rtl-auto"
+                    ]
+                },
+                {
+                    "selector": "break-words",
+                    "classes": [
+                        "rtl-auto"
+                    ]
+                }
+            ]
+        }
     }
 ]
